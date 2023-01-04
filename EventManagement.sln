@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventManagement.Models", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagement.Dal", "EventManagement.Dal\EventManagement.Dal.csproj", "{77295C6B-B451-445D-865E-E20D291B9FE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagement.WebApi", "EventManagement.WebApi\EventManagement.WebApi.csproj", "{6E870F34-34A1-4010-8691-8B20224ACBAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{77295C6B-B451-445D-865E-E20D291B9FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77295C6B-B451-445D-865E-E20D291B9FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77295C6B-B451-445D-865E-E20D291B9FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E870F34-34A1-4010-8691-8B20224ACBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E870F34-34A1-4010-8691-8B20224ACBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E870F34-34A1-4010-8691-8B20224ACBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E870F34-34A1-4010-8691-8B20224ACBAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
